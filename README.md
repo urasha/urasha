@@ -20,6 +20,7 @@ I'm Vladislav. A student of Computer Science at ITMO University.
     <td><b>DB:</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="47" height="47" alt="Oracle" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
     </td>
   </tr>
