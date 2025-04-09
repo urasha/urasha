@@ -41,7 +41,7 @@ I'm Vladislav. A student of Computer Science at ITMO University.
   <img src="https://leetcard.jacoblin.cool/urasha?theme=nord&font=Archivo" alt="LeetCode Stats" />
 
   <a href="https://github.com/urasha/urasha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasha&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasha&hide=html,tex,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
   </a>
 </div>
 
