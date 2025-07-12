@@ -9,27 +9,43 @@ I'm Vladislav. A student of Computer Science at ITMO University.
 ## 🔧 Skills
 <table>
   <tr>
-    <td><b>Code:</b></td>
+    <td><b>Languages:</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40" height="40" alt="Hibernate"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"  alt="Java"/>
+      <img width="50" alt="SQL" src="https://github.com/user-attachments/assets/b32a5ffd-2b01-46b6-bce9-fe9bdf9561b5" />
     </td>
   </tr>
   <tr>
-    <td><b>DB:</b></td>
+    <td><b>Web Frameworks:</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="47" height="47" alt="Oracle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40"  alt="Hibernate"/>
     </td>
   </tr>
   <tr>
-    <td><b>Tools:</b></td>
+    <td><b>Testing:</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+      <img width="40" alt="JUnit 5" src="https://github.com/user-attachments/assets/e5bfc890-80d5-4a81-924c-d7bb05c7134c" />
+      <img width="100"  alt="Mockito" src="https://github.com/user-attachments/assets/64a357a9-8dd7-45f6-815e-dc20ff280be7" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="47"  alt="Oracle" />
+     <img width="60"  alt="Liquibase" src="https://github.com/user-attachments/assets/bc0cab28-cc68-41be-8b58-bfefebf16b0a" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools::</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"  alt="Maven"/>
+      <img width="50"  alt="Gradle" src="https://github.com/user-attachments/assets/3e7f5512-49f4-4683-bf3d-55f29bea5815" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"  alt="Docker"/>
+            <img width="40"  alt="Nginx" src="https://github.com/user-attachments/assets/906a297d-ba8b-4207-ae58-c86f706fc7c9"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"  alt="Linux"/>
     </td>
   </tr>
 </table>
