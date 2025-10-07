@@ -1,8 +1,9 @@
 # Hi! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFvMjBnYmYwZ2F6N3EwZXY0MDQwMXRpb2xjZjMyM2JyN3gxNzl2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="35px">
 
-I'm Vladislav. A student of Computer Science at ITMO University.
+I'm Vladislav. A Computer Science student at ITMO University and a Java Developer Intern at T-Bank.
 
-*   💻 Backend Java Developer
+*   💻 Backend Java Developer Intern @ T-Bank
+*   🎓 Computer Science Student @ ITMO University 
 *   🌍  I'm based in St. Petersburg
 *   ✉️  You can contact me at [email](mailto:urasha24@gmail.com) | [telegram](https://t.me/Urasha24)
 
