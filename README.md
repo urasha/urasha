@@ -1,6 +1,6 @@
 # Hi! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFvMjBnYmYwZ2F6N3EwZXY0MDQwMXRpb2xjZjMyM2JyN3gxNzl2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="35px">
 
-I'm Vladislav. A Computer Science student at ITMO University and a Java Developer Intern at T-Bank.
+I'm Vladislav. Some info about me:
 
 *   💻 Backend Java Developer Intern @ T-Bank
 *   🎓 Computer Science Student @ ITMO University 
