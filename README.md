@@ -20,7 +20,6 @@ I'm Vladislav. Some info about me:
     <td><b>Web Frameworks:</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40"  alt="Hibernate"/>
     </td>
   </tr>
   <tr>
@@ -35,7 +34,7 @@ I'm Vladislav. Some info about me:
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="47"  alt="Oracle" />
-     <img width="60"  alt="Liquibase" src="https://github.com/user-attachments/assets/bc0cab28-cc68-41be-8b58-bfefebf16b0a" />
+      <img width="60" height="60" alt="Flyway" src="https://github.com/user-attachments/assets/42bc0d99-dae2-4b5f-bf0b-7d775db14f0b" />
     </td>
   </tr>
   <tr>
