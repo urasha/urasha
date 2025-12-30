@@ -19,21 +19,21 @@ I'm Vladislav. Some info about me:
   <tr>
     <td><b>Web Frameworks:</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring"/>
     </td>
   </tr>
   <tr>
     <td><b>Testing:</b></td>
     <td>
-      <img width="40" alt="JUnit 5" src="https://github.com/user-attachments/assets/e5bfc890-80d5-4a81-924c-d7bb05c7134c" />
+      <img width="50" alt="JUnit 5" src="https://github.com/user-attachments/assets/e5bfc890-80d5-4a81-924c-d7bb05c7134c" />
       <img width="100"  alt="Mockito" src="https://github.com/user-attachments/assets/64a357a9-8dd7-45f6-815e-dc20ff280be7" />
     </td>
   </tr>
   <tr>
     <td><b>Databases:</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-      <img width="60" height="60" alt="Flyway" src="https://github.com/user-attachments/assets/42bc0d99-dae2-4b5f-bf0b-7d775db14f0b" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+      <img width="50" alt="Flyway" src="https://github.com/user-attachments/assets/42bc0d99-dae2-4b5f-bf0b-7d775db14f0b" />
     </td>
   </tr>
   <tr>
