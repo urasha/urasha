@@ -33,7 +33,6 @@ I'm Vladislav. Some info about me:
     <td><b>Databases:</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="47"  alt="Oracle" />
       <img width="60" height="60" alt="Flyway" src="https://github.com/user-attachments/assets/42bc0d99-dae2-4b5f-bf0b-7d775db14f0b" />
     </td>
   </tr>
@@ -46,6 +45,7 @@ I'm Vladislav. Some info about me:
             <img width="40"  alt="Nginx" src="https://github.com/user-attachments/assets/906a297d-ba8b-4207-ae58-c86f706fc7c9"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"  alt="Linux"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka"/>
     </td>
   </tr>
 </table>
@@ -55,9 +55,5 @@ I'm Vladislav. Some info about me:
 ## 📈 Stats
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://leetcard.jacoblin.cool/urasha?theme=nord&font=Archivo" alt="LeetCode Stats" />
-
-  <a href="https://github.com/urasha/urasha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasha&hide=html,tex,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
-  </a>
 </div>
 
