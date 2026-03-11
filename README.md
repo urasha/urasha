@@ -2,7 +2,7 @@
 
 I'm Vladislav. Some info about me:
 
-*   💻 Backend Java Developer Intern @ T-Bank
+*   💻 Backend Java Developer ex-Intern @ T-Bank
 *   🎓 Computer Science Student @ ITMO University 
 *   🌍  I'm based in St. Petersburg
 *   ✉️  You can contact me at [email](mailto:urasha24@gmail.com) | [telegram](https://t.me/Urasha24)
