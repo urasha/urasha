@@ -30,6 +30,12 @@ I'm Vladislav. Some info about me:
     </td>
   </tr>
   <tr>
+    <td><b>Message broker:</b></td>
+    <td>
+      <img width="90" alt="Apache Kafka" src="https://github.com/user-attachments/assets/f4caa730-1fd4-4343-9d3c-db130d1429a4" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Databases:</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
@@ -39,13 +45,12 @@ I'm Vladislav. Some info about me:
   <tr>
     <td><b>DevOps & Tools::</b></td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"  alt="Docker"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"  alt="Maven"/>
       <img width="50"  alt="Gradle" src="https://github.com/user-attachments/assets/3e7f5512-49f4-4683-bf3d-55f29bea5815" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"  alt="Docker"/>
-            <img width="40"  alt="Nginx" src="https://github.com/user-attachments/assets/906a297d-ba8b-4207-ae58-c86f706fc7c9"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+      <img width="40"  alt="Nginx" src="https://github.com/user-attachments/assets/906a297d-ba8b-4207-ae58-c86f706fc7c9"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"  alt="Linux"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka"/>
     </td>
   </tr>
 </table>
